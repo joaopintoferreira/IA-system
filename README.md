@@ -58,10 +58,3 @@ streamlit run agente_ecobot.py
 
 Um separador do seu navegador padrão abrir-se-á automaticamente com a interface linda do chatbot pronta a usar!
 
-🎥 Demonstração em Vídeo
-
-(Para os alunos: Insiram aqui o link do vídeo a demonstrar o agente)
-
-Link do Vídeo: [Adicione o seu link aqui]
-
-Nota de Segurança: O ficheiro .env não deve ser enviado para o GitHub. Se usar controlo de versões, lembre-se de criar um ficheiro .gitignore e adicionar .env lá dentro.
