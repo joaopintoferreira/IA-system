@@ -1,3 +1,4 @@
 echo "*.mp4" >> .gitignore
-.env
-.env.*
+echo ".env" >> .gitignore
+echo ".env.*" >> .gitignore
+
